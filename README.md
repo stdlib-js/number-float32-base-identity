@@ -65,6 +65,11 @@ for all `x`.
 ## Usage
 
 ```javascript
+import identityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-identity@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-float32-base-identity/tags). For example,
+
+```javascript
 import identityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-identity@v0.1.0-esm/index.mjs';
 ```
 
@@ -107,7 +112,7 @@ v = identityf( NaN );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import identityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-identity@v0.1.0-esm/index.mjs';
+import identityf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-identity@esm/index.mjs';
 
 var rand;
 var i;
