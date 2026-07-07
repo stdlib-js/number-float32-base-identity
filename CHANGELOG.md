@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-05)
+## Unreleased (2026-07-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
 -   [`c9560de`](https://github.com/stdlib-js/stdlib/commit/c9560dedc2ebc61dc8eb2bba775555841f175eea) - **docs:** refactor to use `logEachMap` in examples [(#11454)](https://github.com/stdlib-js/stdlib/pull/11454) _(by Lokesh Ranjan)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Lokesh Ranjan
+-   Philipp Burckhardt
 
 </section>
 
