@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-15)
+## Unreleased (2026-10-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`30a60be`](https://github.com/stdlib-js/stdlib/commit/30a60be99f60b02f409f371bd9f8caf241059feb) - **chore:** update keywords [(#16278)](https://github.com/stdlib-js/stdlib/pull/16278) _(by Philipp Burckhardt)_
 -   [`a669750`](https://github.com/stdlib-js/stdlib/commit/a6697506a4937b6525520ced778c2e37c1ae714f) - **bench:** refactor C benchmarks to use pre-computed values [(#13798)](https://github.com/stdlib-js/stdlib/pull/13798) _(by Nakul Krishnakumar)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
